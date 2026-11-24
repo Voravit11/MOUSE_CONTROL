@@ -10,7 +10,7 @@ Download **`ROMANJDM_MOUSE_CONTROL.exe`** (the small launcher) from the GitHub *
 It fetches the real program from GitHub by itself (first run only, verified with SHA-256), starts it, and
 re-checks for newer versions on every start. No Python, no folders, no setup. Offline? It starts the copy it
 downloaded last time. Permanent link:
-`https://github.com/<owner>/<repo>/releases/latest/download/ROMANJDM_MOUSE_CONTROL.exe`
+`[https://github.com/<owner>/<repo>/releases/latest/download/ROMANJDM_MOUSE_CONTROL.exe](https://github.com/Voravit11/MOUSE_CONTROL.git)`
 
 Downloaded programs are kept in `%LOCALAPPDATA%\ROMANJDM\app\`; your settings stay in `%LOCALAPPDATA%\ROMANJDM\`.
 
